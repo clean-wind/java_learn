@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class example_1 {
+
     public static void main(String[] args) {
         String str = "HelloWorld";
         StringBuffer stringBuffer = new StringBuffer();
